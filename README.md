@@ -27,7 +27,7 @@ The goal is to answer questions like:
 ![Overview](overview.png)
 
 ### Patterns & Hotspots Tab — Time Trends + Heatmap
-![Hotspots](screenshots/hotspots.png)
+![Hotspots](hostpot.png)
 
 ### Live Prediction Tab — Predict Violent vs Non-Violent Crime
 ![Prediction](prrediction.png)
