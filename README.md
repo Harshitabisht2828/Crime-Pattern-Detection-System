@@ -30,7 +30,7 @@ The goal is to answer questions like:
 ![Hotspots](screenshots/hotspots.png)
 
 ### Live Prediction Tab — Predict Violent vs Non-Violent Crime
-![Prediction](screenshots/prediction.png)
+![Prediction](prrediction.png)
 
 > 📁 To add your own screenshots: create a `screenshots` folder in this repo and upload images named `overview.png`, `hotspots.png`, and `prediction.png` (or update the paths above to match your file names).
 
