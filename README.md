@@ -23,13 +23,13 @@ The goal is to answer questions like:
 
 ## 🖼️ Dashboard Preview
 
-### Overview Tab — KPIs, Top Cities, Crime Domain Split
+### --> Overview Tab — KPIs, Top Cities, Crime Domain Split
 ![Overview](overview.png)
 
-### Patterns & Hotspots Tab — Time Trends + Heatmap
+### --> Patterns & Hotspots Tab — Time Trends + Heatmap
 ![Hotspots](hostpot.png)
 
-### Live Prediction Tab — Predict Violent vs Non-Violent Crime
+### --> Live Prediction Tab — Predict Violent vs Non-Violent Crime
 ![Prediction](prrediction.png)
 
 > 📁 To add your own screenshots: create a `screenshots` folder in this repo and upload images named `overview.png`, `hotspots.png`, and `prediction.png` (or update the paths above to match your file names).
