@@ -24,7 +24,7 @@ The goal is to answer questions like:
 ## 🖼️ Dashboard Preview
 
 ### Overview Tab — KPIs, Top Cities, Crime Domain Split
-![Overview](screenshots/overview.png)
+![Overview](overview.png)
 
 ### Patterns & Hotspots Tab — Time Trends + Heatmap
 ![Hotspots](screenshots/hotspots.png)
