@@ -1,6 +1,6 @@
 # 🚨 Crime Pattern Detection System
 
-A data-driven system to analyze crime records across Indian cities, uncover patterns, identify high-crime hotspots, and predict crime severity using Machine Learning — packaged in an interactive live dashboard.
+A data-driven system to analyze the crime records across Indian cities, uncover patterns, identify high-crime hotspots, and predict crime severity using Machine Learning — packaged in an interactive live dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
